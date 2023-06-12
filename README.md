@@ -12,35 +12,34 @@ Prosty symulator **Maszyny Turinga**, oparty na języku C++ połączonym z mySQL
 **1.** Użytkownik zostaje poproszony o podanie wszystkich stanów, które będzie chciał wykorzystać w maszynie (włącznie ze stanem zerowym).
 Stany muszą być oddzielone przecinkiem, lub spacją. Program będzie ignorował wszystkie przecinki i spacje także nie należy ich używać w nazwach stanów. Wszystkie zduplikowane nazwy zostaną automatycznie usunięte.
 
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/4c6ca1a8-25ca-4a45-b866-039f2a158eae)
 
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/829d77cb-5647-4e18-bd95-d814124711ef)
 
 **2.** Użytkownik zostanie poproszony o podanie wszystkich znaków, które będzie chciał wykorzystać w maszynie (włącznie ze znakiem pustym). Znaki składają się z pojedynczego znaku.
 Znaki nie muszą być oddzielone przecinkiem, lub spacją, mogą być pisane jeden koło drugiego. Program będzie ignorował wszystkie przecinki i spacje także nie należy ich używać jako znaków. Wszystkie zduplikowane znaki zostaną automatycznie usunięte.
 
 
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/785b0b41-22a9-46da-a11e-e660a90ba80b)
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/3ead02cc-d852-4ea7-b4ab-a65a6bc93f4b)
 
 **3.** Użytkownik zostanie poproszony o wpisanie stanu, który wybrał jako początkowy. W razie wpisania nieistniejącego stanu, użytkownik zostanie poproszony o ponowne wpisanie stanu.
 
 
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/39acbcfc-e0fd-474a-ba4b-457e4d6c9afa)
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/0febcca2-da73-408b-abd8-9c4cf2d448d1)
 
 
 **4.** Użytkownik zostanie poproszony o wpisanie znaku pustego. W razie wpisania nieistniejącego znaku, użytkownik zostanie poproszony o ponowne wpisanie znaku.
 
 
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/ee5c1ccb-67fb-42d0-b842-479198ec3f03)
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/ceda1ebd-7e92-4283-96d2-c8a3328c9d6c)
 
 **5.** Użytkownik zostanie poproszony o wpisanie taśmy. Taśma musi składać się ze znaków zadeklarowanych w kroku 2. W razie wpisania niepoprawnego znaku, użytkownik zostanie poproszony o wpisanie taśmy jeszcze raz. Program automatycznie dodaje znaki puste w miarę potrzeby na początku i końcu taśmy, także jeśli nie są potrzebne nie należy ich w niej uwzględniać. Program w późniejszych etapach daje możliwość wybrania miejsca rozpoczęcia programu na taśmie, oraz wprowadzenia następnych taśm i poleceń dla wybranych znaków i stanów.
 
-
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/20f30794-2c61-4ad4-b1cf-8597aee45912)
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/c8c77f30-92a4-4238-9262-77657710ec71)
 
 **6.** Użytkownik zostanie poproszony o wpisanie numeru znaku rozpoczęcia programu, zaczynając od numeru 1. W wypadku wprowadzenia numeru znaku wychodzącego poza krawędź taśmy należy wpisać numer jeszcze raz.
 
 
-![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/543acc71-ea81-48c3-b3c9-bf8d74432b97)
+![image](https://github.com/Omen1719/symulator-maszyny-turinga/assets/123622068/e37e5291-73ab-4f09-9e44-8bf0575da5c5)
 
 
 **7.** W celu wygody użytkownika zostaną wyświetlone wszystkie stany, znaki oraz taśma. Następnie przychodzi kolej na wpisywanie poleceń. Polecenia mają strukturę:
