@@ -6,6 +6,9 @@ Prosty symulator **Maszyny Turinga**, oparty na języku C++ połączonym z mySQL
 
 
 ## Opis działania symulatora ##
+
+**DO KORZYSTANIA Z MASZYNY WYMAGANA JEST PODSTAWOWA WIEDZA ODNOŚNIE MASZYNY TURINGA, NIE JEST ONA ZAWARTA W 100% W INSTRUKCJI**
+
 **1.** Użytkownik zostaje poproszony o podanie wszystkich stanów, które będzie chciał wykorzystać w maszynie (włącznie ze stanem zerowym).
 Stany muszą być oddzielone przecinkiem, lub spacją. Program będzie ignorował wszystkie przecinki i spacje także nie należy ich używać w nazwach stanów. Wszystkie zduplikowane nazwy zostaną automatycznie usunięte.
 
