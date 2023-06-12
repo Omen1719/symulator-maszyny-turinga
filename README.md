@@ -1,2 +1,2 @@
-# symulator-maszyny-turinga
-C++
+# Maszyna Turinga C++
+
