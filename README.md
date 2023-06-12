@@ -1,0 +1,2 @@
+# symulator-maszyny-turinga
+C++
