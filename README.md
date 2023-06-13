@@ -1,5 +1,5 @@
 # Maszyna Turinga C++
-**Michał Bartula, Maciej Grygierzec**
+**Michał Bartula**
 
 Prosty symulator **Maszyny Turinga**, oparty na języku C++. Maszyna wykonuje polecenia użytkownika na wzór **Maszyny Turinga**, na podstawie otrzymanych danych.
 ## Instrukcja instalacji ##
