@@ -1,7 +1,7 @@
 # Maszyna Turinga C++
 **Michał Bartula, Maciej Grygierzec**
 
-Prosty symulator **Maszyny Turinga**, oparty na języku C++ połączonym z mySQL. Maszyna wykonuje polecenia użytkownika na wzór **Maszyny Turinga**, na podstawie otrzymanych danych.
+Prosty symulator **Maszyny Turinga**, oparty na języku C++. Maszyna wykonuje polecenia użytkownika na wzór **Maszyny Turinga**, na podstawie otrzymanych danych.
 ## Instrukcja instalacji ##
 Pobranie pliku source.cpp. Odpalenie go w kompilatorze, najlepiej w Code::Blocks. Skompilowanie i odpalenie programu przyciskiem **f9**. Program korzysta z biblioteki <Windows.h>, która działa tylko na systemie windows.
 
