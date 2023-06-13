@@ -3,7 +3,7 @@
 
 Prosty symulator **Maszyny Turinga**, oparty na języku C++ połączonym z mySQL. Maszyna wykonuje polecenia użytkownika na wzór **Maszyny Turinga**, na podstawie otrzymanych danych.
 ## Instrukcja instalacji ##
-
+Pobranie pliku source.cpp. Odpalenie go w kompilatorze, najlepiej w Code::Blocks. Skompilowanie i odpalenie programu przyciskiem **f9**. Program korzysta z biblioteki <Windows.h>, która działa tylko na systemie windows.
 
 ## Opis działania symulatora ##
 
@@ -62,5 +62,5 @@ W wypadku wpisania jakiejkolwiek błędnego parametru, program poinformuje któr
 
 
 
-**9.** Użytkownik zostanie zapytany czy chce wpisać następną taśmę. Cofnie go to do kroku 5. Polecenia programu należy skopiować jeśli program zadziałał za pierwszym razem, albo zmienić i napisać od nowa.
+**9.** Użytkownik zostanie zapytany czy chce wpisać następną taśmę. Cofnie go to do kroku 5. Jedyną różnicą jest to, że nie musi wpisywać poleceń ponownie, zostaną one automatycznie zastosowane do taśmy.
 
